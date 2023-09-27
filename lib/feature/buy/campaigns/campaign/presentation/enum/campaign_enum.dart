@@ -1,0 +1,1 @@
+enum CampaignVolumeEnum { up, down }

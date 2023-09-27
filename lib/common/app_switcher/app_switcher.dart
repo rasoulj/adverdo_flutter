@@ -1,0 +1,1 @@
+export 'app_switcher_icon.dart';
